@@ -1,0 +1,287 @@
+product_number,sub_category,category,product_group,online_offline
+P1_10,Marketplace,Marketplace,Payment,Online
+P1_100,Restaurant Chain,FnB,Payment,Offline
+P1_101,Restaurant Chain,FnB,Payment,Offline
+P1_102,Restaurant Chain,FnB,Payment,Offline
+P1_103,Beverage Stores,FnB,Payment,Offline
+P1_104,Marketplace,Marketplace,Payment,Online
+P1_105,Beverage Stores,FnB,Payment,Offline
+P1_106,Restaurant Chain,FnB,Payment,Offline
+P1_107,Hotel Booking,Traveling,Payment,Online
+P1_108,Restaurant Chain,FnB,Payment,Offline
+P1_109,Toll,Transportation,Payment,Online
+P1_11,Other FnB,FnB,Payment,Offline
+P1_110,Shopping Stores,Shopping,Payment,Offline
+P1_111,Convenience Store,Shopping,Payment,Offline
+P1_112,Marketplace,Marketplace,Payment,Online
+P1_113,Air Ticket,Traveling,Payment,Online
+P1_114,Hotel Booking,Traveling,Payment,Online
+P1_115,Air Ticket,Traveling,Payment,Online
+P1_116,Shopping Stores,Shopping,Payment,Online
+P1_117,Restaurant Chain,FnB,Payment,Offline
+P1_118,Restaurant Chain,FnB,Payment,Offline
+P1_119,Travel Ticket,Traveling,Payment,Online
+P1_12,Credit Card,Billing,Credit Card Billing,Online
+P1_120,Travel Ticket,Traveling,Payment,Online
+P1_121,Shopping Stores,Shopping,Payment,Offline
+P1_122,Restaurant Chain,FnB,Payment,Offline
+P1_123,Hotel Booking,Traveling,Payment,Online
+P1_124,Marketplace,Marketplace,Payment,Online
+P1_125,TV,Billing,Payment,Online
+P1_126,Shopping Stores,Shopping,Payment,Offline
+P1_127,Shopping Stores,Shopping,Payment,Offline
+P1_128,Beverage Stores,FnB,Payment,Offline
+P1_129,Water,Billing,Payment,Online
+P1_13,Topup,Telco,Payment,Online
+P1_130,Food Stores,FnB,Payment,Offline
+P1_131,Shopping Stores,Shopping,Payment,Offline
+P1_132,Cinema,Movies,Payment,Online
+P1_133,Water,Billing,Payment,Online
+P1_134,Convenience Store,Shopping,Payment,Offline
+P1_135,Shopping Stores,Shopping,Payment,Offline
+P1_136,Shopping Stores,Shopping,Payment,Offline
+P1_137,Cinema,Movies,Payment,Online
+P1_138,Marketplace,Marketplace,Payment,Online
+P1_139,Marketplace,Marketplace,Payment,Online
+P1_14,Air Ticket,Traveling,Payment,Online
+P1_140,Shopping Stores,Shopping,Payment,Offline
+P1_141,Shopping Stores,Shopping,Payment,Offline
+P1_142,TV,Billing,Payment,Online
+P1_143,Internet,Billing,Payment,Online
+P1_144,Beverage Stores,FnB,Payment,Offline
+P1_145,Beverage Stores,FnB,Payment,Offline
+P1_146,Air Ticket,Traveling,Payment,Online
+P1_147,Restaurant Chain,FnB,Payment,Offline
+P1_148,Air Ticket,Traveling,Payment,Online
+P1_149,Food Stores,FnB,Payment,Offline
+P1_15,Cinemas Aggregator,Movies,Payment,Online
+P1_150,Beverage Stores,FnB,Payment,Offline
+P1_151,Restaurant Chain,FnB,Payment,Offline
+P1_152,Restaurant Chain,FnB,Payment,Offline
+P1_153,Food Stores,FnB,Payment,Offline
+P1_154,Shopping Stores,Shopping,Payment,Offline
+P1_155,Beverage Stores,FnB,Payment,Offline
+P1_156,Cinema,Movies,Payment,Online
+P1_157,Restaurant Chain,FnB,Payment,Offline
+P1_158,Shopping Stores,Shopping,Payment,Offline
+P1_159,Shopping Stores,Shopping,Payment,Offline
+P1_16,Beverage Stores,FnB,Payment,Offline
+P1_160,Shopping Stores,Shopping,Payment,Offline
+P1_161,Beverage Stores,FnB,Payment,Offline
+P1_162,Beverage Stores,FnB,Payment,Offline
+P1_163,Beverage Stores,FnB,Payment,Offline
+P1_164,Restaurant Chain,FnB,Payment,Offline
+P1_165,Restaurant Chain,FnB,Payment,Offline
+P1_166,Supermarket,Shopping,Payment,Offline
+P1_167,Supermarket,Shopping,Payment,Offline
+P1_168,Other FnB,FnB,Payment,Offline
+P1_169,Restaurant Chain,FnB,Payment,Offline
+P1_17,Shopping Stores,Shopping,Payment,Online
+P1_170,Shopping Stores,Shopping,Payment,Offline
+P1_171,Restaurant Chain,FnB,Payment,Offline
+P1_172,Shopping Stores,Shopping,Payment,Online
+P1_173,Hotel Booking,Traveling,Payment,Online
+P1_174,Restaurant Chain,FnB,Payment,Offline
+P1_175,Food Stores,FnB,Payment,Offline
+P1_176,Restaurant Chain,FnB,Payment,Offline
+P1_177,Beverage Stores,FnB,Payment,Offline
+P1_178,Shopping Stores,Shopping,Payment,Online
+P1_179,Restaurant Chain,FnB,Payment,Offline
+P1_18,Restaurant Chain,FnB,Payment,Offline
+P1_180,Marketplace,Marketplace,Payment,Online
+P1_181,Bus ticket,Transportation,Payment,Online
+P1_183,Restaurant Chain,FnB,Payment,Offline
+P1_184,Beverage Stores,FnB,Payment,Offline
+P1_185,Apartment Fee,Billing,Payment,Online
+P1_186,Water,Billing,Payment,Online
+P1_187,Beverage Stores,FnB,Payment,Offline
+P1_188,Shopping Stores,Shopping,Payment,Online
+P1_189,Restaurant Chain,FnB,Payment,Offline
+P1_19,Shopping Stores,Shopping,Payment,Online
+P1_190,Beverage Stores,FnB,Payment,Offline
+P1_191,Shopping Stores,Shopping,Payment,Online
+P1_192,Shopping Stores,Shopping,Payment,Online
+P1_193,Shopping Stores,Shopping,Payment,Offline
+P1_194,Other FnB,FnB,Payment,Offline
+P1_195,Consumer Finance,Billing,Payment,Online
+P1_196,Apartment Fee,Billing,Payment,Online
+P1_197,Cinema,Movies,Payment,Online
+P1_198,Consumer Finance,Billing,Payment,Online
+P1_199,Other Shopping,Shopping,Payment,Online
+P1_20,Beverage Stores,FnB,Payment,Offline
+P1_200,Beverage Stores,FnB,Payment,Offline
+P1_201,Restaurant Chain,FnB,Payment,Offline
+P1_202,Shopping Stores,Shopping,Payment,Online
+P1_203,Food Stores,FnB,Payment,Offline
+P1_204,Shopping Stores,Shopping,Payment,Offline
+P1_205,Restaurant Chain,FnB,Payment,Offline
+P1_206,Consumer Finance,Billing,Payment,Online
+P1_207,Consumer Finance,Billing,Payment,Online
+P1_208,Food Stores,FnB,Payment,Offline
+P1_209,Water,Billing,Payment,Online
+P1_21,Cinema,Movies,Payment,Online
+P1_210,Beverage Stores,FnB,Payment,Offline
+P1_211,Food Stores,FnB,Payment,Offline
+P1_212,Shopping Stores,Shopping,Payment,Offline
+P1_213,Supermarket,Shopping,Payment,Offline
+P1_214,Shopping Stores,Shopping,Payment,Offline
+P1_215,Other Shopping,Shopping,Payment,Offline
+P1_216,Beverage Stores,FnB,Payment,Offline
+P1_217,Beverage Stores,FnB,Payment,Offline
+P1_218,Consumer Finance,Billing,Payment,Online
+P1_219,Beverage Stores,FnB,Payment,Offline
+P1_22,Shopping Stores,Shopping,Payment,Online
+P1_220,Shopping Stores,Shopping,Payment,Offline
+P1_221,Food Stores,FnB,Payment,Offline
+P1_222,Restaurant Chain,FnB,Payment,Offline
+P1_223,Food Stores,FnB,Payment,Offline
+P1_224,Beverage Stores,FnB,Payment,Offline
+P1_225,Restaurant Chain,FnB,Payment,Offline
+P1_226,Travel Ticket,Traveling,Payment,Online
+P1_227,Shopping Stores,Shopping,Payment,Offline
+P1_228,Supermarket,Shopping,Payment,Offline
+P1_229,Supermarket,Shopping,Payment,Offline
+P1_23,Shopping Stores,Shopping,Payment,Offline
+P1_230,Supermarket,Shopping,Payment,Offline
+P1_231,Supermarket,Shopping,Payment,Offline
+P1_232,Supermarket,Shopping,Payment,Offline
+P1_233,Supermarket,Shopping,Payment,Offline
+P1_234,Supermarket,Shopping,Payment,Offline
+P1_235,Supermarket,Shopping,Payment,Offline
+P1_236,Supermarket,Shopping,Payment,Offline
+P1_237,Supermarket,Shopping,Payment,Offline
+P1_238,Supermarket,Shopping,Payment,Offline
+P1_239,Supermarket,Shopping,Payment,Offline
+P1_24,Restaurant Chain,FnB,Payment,Offline
+P1_240,Shopping Stores,Shopping,Payment,Offline
+P1_241,Marketplace,Marketplace,Payment,Online
+P1_242,Shopping Stores,Shopping,Payment,Online
+P1_243,Marketplace,Marketplace,Payment,Online
+P1_244,Supermarket,Shopping,Payment,Offline
+P1_245,Supermarket,Shopping,Payment,Offline
+P1_246,Supermarket,Shopping,Payment,Offline
+P1_247,Supermarket,Shopping,Payment,Offline
+P1_248,Supermarket,Shopping,Payment,Offline
+P1_249,Supermarket,Shopping,Payment,Offline
+P1_25,Shopping Stores,Shopping,Payment,Offline
+P1_250,Supermarket,Shopping,Payment,Offline
+P1_251,Supermarket,Shopping,Payment,Offline
+P1_252,Supermarket,Shopping,Payment,Offline
+P1_253,Supermarket,Shopping,Payment,Offline
+P1_254,Supermarket,Shopping,Payment,Offline
+P1_255,Supermarket,Shopping,Payment,Offline
+P1_256,Supermarket,Shopping,Payment,Offline
+P1_257,Supermarket,Shopping,Payment,Offline
+P1_258,Supermarket,Shopping,Payment,Offline
+P1_259,Supermarket,Shopping,Payment,Offline
+P1_26,Marketplace,Marketplace,Payment,Online
+P1_260,Supermarket,Shopping,Payment,Offline
+P1_261,Supermarket,Shopping,Payment,Offline
+P1_262,Supermarket,Shopping,Payment,Offline
+P1_263,Other FnB,FnB,Payment,Online
+P1_264,Restaurant Chain,FnB,Payment,Offline
+P1_265,Marketplace,Marketplace,Payment,Online
+P1_266,Other Shopping,Shopping,Payment,Online
+P1_267,Beverage Stores,FnB,Payment,Offline
+P1_268,Beverage Stores,FnB,Payment,Offline
+P1_269,Beverage Stores,FnB,Payment,Offline
+P1_27,Shopping Stores,Shopping,Payment,Online
+P1_270,Marketplace,Marketplace,Payment,Online
+P1_271,Other FnB,FnB,Payment,Online
+P1_272,Beverage Stores,FnB,Payment,Offline
+P1_273,Shopping Stores,Shopping,Payment,Online
+P1_274,Beverage Stores,FnB,Payment,Offline
+P1_275,Food Stores,FnB,Payment,Offline
+P1_276,Restaurant Chain,FnB,Payment,Offline
+P1_277,Food Stores,FnB,Payment,Offline
+P1_278,Restaurant Chain,FnB,Payment,Offline
+P1_279,Food Stores,FnB,Payment,Offline
+P1_28,Shopping Stores,Shopping,Payment,Online
+P1_280,Food Stores,FnB,Payment,Offline
+P1_281,Food Stores,FnB,Payment,Offline
+P1_282,Food Stores,FnB,Payment,Offline
+P1_283,Beverage Stores,FnB,Payment,Offline
+P1_284,Food Stores,FnB,Payment,Offline
+P1_285,Food Stores,FnB,Payment,Offline
+P1_286,Food Stores,FnB,Payment,Offline
+P1_287,Food Stores,FnB,Payment,Offline
+P1_29,Insurance,Billing,Payment,Online
+P1_3,Telco Card,Telco,Payment,Online
+P1_30,Cinema,Movies,Payment,Online
+P1_31,Tour Booking,Traveling,Payment,Online
+P1_32,Marketplace,Marketplace,Payment,Online
+P1_33,Marketplace,Marketplace,Payment,Online
+P1_34,Shopping Stores,Shopping,Payment,Offline
+P1_35,Travel Ticket,Traveling,Payment,Online
+P1_36,TV,Billing,Payment,Online
+P1_37,Other Shopping,Shopping,Payment,Online
+P1_38,Cinema,Movies,Payment,Online
+P1_39,Not Payment,Not Payment,Bank Transfer,Not Payment
+P1_4,Food Stores,FnB,Payment,Offline
+P1_40,Marketplace,Marketplace,Payment,Online
+P1_41,Travel Ticket,Traveling,Payment,Online
+P1_42,Marketplace,Marketplace,Payment,Online
+P1_43,Shopping Stores,Shopping,Payment,Online
+P1_44,Beverage Stores,FnB,Payment,Offline
+P1_45,Shopping Stores,Shopping,Payment,Offline
+P1_46,Shopping Stores,Shopping,Payment,Online
+P1_47,Shopping Stores,Shopping,Payment,Online
+P1_48,Travel Ticket,Traveling,Payment,Online
+P1_49,Shopping Stores,Shopping,Payment,Offline
+P1_5,Electricity,Billing,Payment,Online
+P1_50,Marketplace,Marketplace,Payment,Online
+P1_51,Cinema,Movies,Payment,Online
+P1_52,Insurance,Billing,Payment,Online
+P1_53,Beverage Stores,FnB,Payment,Offline
+P1_54,Shopping Stores,Shopping,Payment,Online
+P1_55,Marketplace,Marketplace,Payment,Online
+P1_56,Marketplace,Marketplace,Payment,Online
+P1_57,Marketplace,Marketplace,Payment,Offline
+P1_58,Supermarket,Shopping,Payment,Offline
+P1_59,Marketplace,Marketplace,Payment,Online
+P1_6,Water,Billing,Payment,Online
+P1_60,Tour Booking,Traveling,Payment,Online
+P1_61,Insurance,Billing,Payment,Online
+P1_62,Car sharing,Transportation,Payment,Online
+P1_63,Convenience Store,Shopping,Payment,Online
+P1_64,Car sharing,Transportation,Payment,Online
+P1_65,Cinema,Movies,Payment,Online
+P1_66,Shopping Stores,Shopping,Payment,Online
+P1_67,Shopping Stores,Shopping,Payment,Offline
+P1_68,Electricity,Billing,Payment,Online
+P1_69,Restaurant Chain,FnB,Payment,Offline
+P1_7,Cinemas Aggregator,Movies,Payment,Online
+P1_70,Restaurant Chain,FnB,Payment,Offline
+P1_71,Bus ticket,Transportation,Payment,Online
+P1_72,Consumer Finance,Billing,Payment,Online
+P1_73,Insurance,Billing,Payment,Online
+P1_74,Electricity,Billing,Payment,Online
+P1_75,Marketplace,Marketplace,Payment,Offline
+P1_76,Beverage Stores,FnB,Payment,Offline
+P1_77,Supermarket,Shopping,Payment,Offline
+P1_78,Shopping Stores,Shopping,Payment,Offline
+P1_79,Electricity,Billing,Payment,Online
+P1_8,Internet,Billing,Payment,Online
+P1_80,Electricity,Billing,Payment,Online
+P1_81,Electricity,Billing,Payment,Online
+P1_82,Restaurant Chain,FnB,Payment,Offline
+P1_83,Restaurant Chain,FnB,Payment,Offline
+P1_84,Restaurant Chain,FnB,Payment,Offline
+P1_85,Restaurant Chain,FnB,Payment,Offline
+P1_86,Data,Telco,Payment,Online
+P1_87,Cinema,Movies,Payment,Online
+P1_88,Shopping Stores,Shopping,Payment,Offline
+P1_89,Postpaid,Telco,Payment,Online
+P1_9,TV,Billing,Payment,Online
+P1_90,Not Payment,Not Payment,Withdraw,Not Payment
+P1_91,Postpaid,Telco,Payment,Online
+P1_92,Not Payment,Not Payment,Top-up account,Not Payment
+P1_93,Combo,Telco,Payment,Online
+P1_94,Cinema,Movies,Payment,Online
+P1_95,Cinema,Movies,Payment,Online
+P1_96,Hotel Booking,Traveling,Payment,Online
+P1_97,Shopping Stores,Shopping,Payment,Online
+P1_98,Food Stores,FnB,Payment,Offline
+P1_99,Cinemas Aggregator,Movies,Payment,Online
+P2_1,Not Payment,Not Payment,Top-up account,Not Payment
+P5_2,Not Payment,Not Payment,Withdraw,Not Payment

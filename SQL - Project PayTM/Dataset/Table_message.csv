@@ -1,0 +1,16 @@
+message_id,description
+-15,Your account is temporarily locked
+-14,Transactions suspected to be fraudulent
+-13,Unknown error from the bank
+-12,The bank transaction processing time has expired
+-11,Payment failed
+-10,Transactions suspected to be fraudulent
+-9,Payment failed
+-8,Wrong OTP
+-7,Wrong password to pay more than limit number of times
+-6,Exceeded the allowed amount for the day
+-5,Payment password is incorrect
+-4,Transaction failed due to duplicate order ID
+-3,The account does not have enough funds for payment.
+-2,Payment expired transaction
+1,Success
